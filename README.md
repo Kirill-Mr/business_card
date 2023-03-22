@@ -1,6 +1,6 @@
 # business_card
 
-![Image alt](https://github.com/Kirill-Mr/business_card/blob/master/main_screen.jpg
+![Image alt](https://github.com/Kirill-Mr/business_card/blob/master/main_screen.jpg)
 
 ## Getting Started
 
